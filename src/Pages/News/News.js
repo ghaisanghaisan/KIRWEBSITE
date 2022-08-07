@@ -7,8 +7,8 @@ export default function News() {
     <div className="main-content">
         <div className="news-content">
             <NewsCard title="Putra" description="putra ganteng" img={sbr}/>
-            <NewsCard title="Putra" description="putra"/>
-            <NewsCard title="Putra" description=""/>
+            <NewsCard title="Danish" description="putra"/>
+            <NewsCard title="Kntol" description=""/>
             <NewsCard title="Putra" description="lorem5"/>
             <NewsCard title="Putra" description="lorem5"/>
 
