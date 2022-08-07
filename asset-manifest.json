@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KIRWEBSITE/static/css/main.721cf81d.css",
+    "main.js": "/KIRWEBSITE/static/js/main.801a427c.js",
+    "static/media/sbr13.jpeg": "/KIRWEBSITE/static/media/sbr13.f38d81846732f7a911e2.jpeg",
+    "index.html": "/KIRWEBSITE/index.html",
+    "main.721cf81d.css.map": "/KIRWEBSITE/static/css/main.721cf81d.css.map",
+    "main.801a427c.js.map": "/KIRWEBSITE/static/js/main.801a427c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721cf81d.css",
+    "static/js/main.801a427c.js"
+  ]
+}
