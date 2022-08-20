@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KIRWEBSITE/static/css/main.85d1857d.css",
-    "main.js": "/KIRWEBSITE/static/js/main.90f32f55.js",
-    "static/media/sbr12.jpeg": "/KIRWEBSITE/static/media/sbr12.3fc145159c5feaa336a2.jpeg",
+    "main.css": "/KIRWEBSITE/static/css/main.7d7ed38c.css",
+    "main.js": "/KIRWEBSITE/static/js/main.fb49e284.js",
+    "static/media/sbr13.jpeg": "/KIRWEBSITE/static/media/sbr13.f38d81846732f7a911e2.jpeg",
     "index.html": "/KIRWEBSITE/index.html",
-    "main.85d1857d.css.map": "/KIRWEBSITE/static/css/main.85d1857d.css.map",
-    "main.90f32f55.js.map": "/KIRWEBSITE/static/js/main.90f32f55.js.map"
+    "main.7d7ed38c.css.map": "/KIRWEBSITE/static/css/main.7d7ed38c.css.map",
+    "main.fb49e284.js.map": "/KIRWEBSITE/static/js/main.fb49e284.js.map"
   },
   "entrypoints": [
-    "static/css/main.85d1857d.css",
-    "static/js/main.90f32f55.js"
+    "static/css/main.7d7ed38c.css",
+    "static/js/main.fb49e284.js"
   ]
 }
